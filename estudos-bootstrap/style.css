@@ -1,0 +1,9 @@
+div {
+    font-size: 30px;
+    background-color: green;
+    color: red;
+}
+
+.col {
+    border: 1px solid black;
+}
